@@ -1,0 +1,40 @@
+#lecture_name{
+    height: 20px;
+    width: 1200px;
+}
+
+#parent{
+    display: flex;
+}
+#chart{
+    height: 600px;
+    width: 800px;
+    border: 1px solid #555;
+}
+#layout_editer{
+    height: 600px;
+    width: 800px;
+    border: 1px solid #555;
+}
+#space_height{
+    height: 20px;
+}
+#space_width{
+    width: 20px;
+}
+#detail_editer{
+    height: 600px;
+    width:380px;
+    border: 1px solid #555;
+    
+    /*ど真ん中寄せ*/
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+}
+
+
+#register{
+    height: 100px;
+    width: 250px;
+}

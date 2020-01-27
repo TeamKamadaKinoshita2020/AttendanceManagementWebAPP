@@ -1,0 +1,32 @@
+.main {  
+    width: 100%;
+    text-align: center;
+}  
+.main div   {
+    font-size: 15px;
+    width: 80%;  
+    margin: 0 auto;  
+    text-align: left;
+}
+
+/*背景色、行間の設定*/
+body {
+    background-color: #B0FEB5;
+    line-height: 2.0;
+}
+
+article_title {
+    width: 500px;
+    border: 1px solid #000;  
+    font-size: 17px;
+}
+
+article_text {
+    width: 800px;
+    border: 1px solid #000;  
+    font-size: 16px;
+}
+
+textarea {  
+    resize: none;  
+}  

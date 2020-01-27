@@ -1,0 +1,10 @@
+body,main{margin: 0}
+#main{
+    width: 400px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #555;
+    }
+#delete_button{
+    margin-left: auto;
+}

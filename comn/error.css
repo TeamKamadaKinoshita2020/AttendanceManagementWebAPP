@@ -1,0 +1,19 @@
+.main {  
+    width: 100%;
+    text-align: center;
+}  
+.main div   {  
+    width: 80%;  
+    margin: 0 auto;  
+    text-align: left;
+}
+
+content {
+    border: 1px solid #FF0000;
+}
+
+/*背景色、行間の設定*/
+body {
+    background-color: #B0FEB5;
+    line-height: 1.4;
+}

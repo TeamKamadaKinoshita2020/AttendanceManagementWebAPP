@@ -1,0 +1,12 @@
+.main {  
+    width: 100%;  
+    border: 1px solid #000;  
+    text-align: center;  
+}  
+.main div   {
+    font-size: 15px;
+    width: 40%;  
+    border: 1px solid #000;
+    margin: 0 auto;  
+    text-align: left
+}

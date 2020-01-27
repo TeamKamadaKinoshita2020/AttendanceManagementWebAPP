@@ -1,0 +1,14 @@
+#parent{
+    display: flex;
+}
+#title{
+    height: 50px;
+    width: 800px;
+}
+
+#login_user{
+    height: 50px;
+    width:400px;
+    
+    text-align: right;/*右寄せ*/
+}

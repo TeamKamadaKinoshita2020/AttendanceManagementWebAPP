@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    font-family:"Yu Gothic", "游ゴシック", YuGothic, "游ゴシック体", "ヒラギノ角ゴ Pro W3", "メイリオ", sans-serif;
+}
+
+div#wrapper {  
+    width: 1200px;  
+    margin: 0 auto;  
+    text-align: left;  
+    /*border: 1px solid #FF0000;*/  
+} 

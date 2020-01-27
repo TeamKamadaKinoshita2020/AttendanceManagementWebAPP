@@ -1,0 +1,33 @@
+.main {  
+    width: 100%;  
+    border: 1px solid #000;  
+    text-align: center;  
+}  
+.main div   {
+    font-size: 15px;
+    width: 40%;  
+    border: 1px solid #000;
+    margin: 0 auto;  
+    text-align: left
+}
+
+article_title {
+    font-size: 16px;
+}
+
+limit {
+    font-size: 13px;
+    color: #FF0000;
+}
+
+.textOverflowTest1{
+  overflow: hidden;
+  padding: 10px;
+  height: 5px;
+  width: 200px;
+  line-height: 1.0;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  -webkit-text-overflow: ellipsis; /* Safari */
+  -o-text-overflow: ellipsis; /* Opera */
+}
