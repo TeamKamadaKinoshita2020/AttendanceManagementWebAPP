@@ -8,27 +8,13 @@ class DAO
 {
     
     
-    // AWS用設定 RDS
-    private $db_host = "database-1.ccy4ybdnvvrm.ap-northeast-1.rds.amazonaws.com"; // DBサーバのURL
-    private $db_user = "admin"; // ユーザー名
-    private $db_pass = "adminadmin"; // ユーザー名のパスワード
+    // データベース接続の設定
+    private $db_host = "hoge1"; // hoge1 = DBサーバのURL
+    private $db_user = "hoge2"; // hoge2 = ユーザー名
+    private $db_pass = "hoge3"; // hoge3 = ユーザー名のパスワード
     private $db_dbname = "attendance_system"; // データベース名
     private $pdo;
     public $daomessage = "";
-    
-
-    /*
-    
-    // ローカルホスト時の設定
-    private $db_host = "localhost"; // DBサーバのURL
-    private $db_user = "18nm714n"; // ユーザー名
-    private $db_pass = "N417"; // ユーザー名のパスワード
-    private $db_dbname = "attendance_system"; // データベース名
-    private $pdo;
-    public $daomessage = "";
-    
-
-
 
 
     
